@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **Python**
+
 
 
 ## Table of Contents
