@@ -9,7 +9,7 @@
 
 ## Table of Contents
 - [Java Projects](#java-projects)
-- [Another Section](#another-section)
+- [Web Development Projects](#web-development-projects)
 
 
 
@@ -87,10 +87,20 @@
 
 
 
-<h3 align="center"><strong>Web Development </strong></h3>
+<h3 align="center"><strong>Web Development Projects</strong></h3>
+
+<h4 align="left"><a href="https://github.com/TheEMG/ericgutierrez.github.io">Portfolio Website</a></h4>
+<p align="left">
+  <strong>Description</strong>: An interactive showcase of my development skills, featuring a curated selection of my best projects(Link shows source code only!)<br>
+  <strong>Technologies Used</strong>:<br>
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" width="50" height="50"/>
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="50" height="50"/>
+</p>
+
  
 
 <h3 align="center"><strong>Python Projects</strong></h3>
- In Progress...
+<h4 align="left">In progress...</a></h4>
 
 
