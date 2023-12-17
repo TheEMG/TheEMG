@@ -90,7 +90,7 @@
 
 <h3 align="center"><strong>Web Development Projects</strong></h3>
 
-<h4 align="left"><a href="https://github.com/TheEMG/ericgutierrez.github.io">Portfolio Website</a></h4>
+<h4 align="left"><a href="https://github.com/TheEMG/Portfolio">Portfolio Website</a></h4>
 <p align="left">
   <strong>Description</strong>: An interactive showcase of my development skills, featuring a curated selection of my best projects(Link shows source code only!)<br>
   <strong>Technologies Used</strong>:<br>
