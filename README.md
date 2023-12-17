@@ -10,6 +10,7 @@
 ## Table of Contents
 - [Java Projects](#java-projects)
 - [Web Development Projects](#web-development-projects)
+- [Other Projects](#other-projects)
 
 
 
@@ -93,14 +94,45 @@
 <p align="left">
   <strong>Description</strong>: An interactive showcase of my development skills, featuring a curated selection of my best projects(Link shows source code only!)<br>
   <strong>Technologies Used</strong>:<br>
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" width="50" height="50"/>
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="50" height="50"/>
+   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50"/>
+          
+   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/>
 </p>
+
+<h4 align="left"><a href="https://github.com/TheEMG/Media-Inventory-System">Media Inventory System </a></h4>
+<p align="left">
+  <strong>Description</strong>:This project was a comprehensive learning journey in full-stack development, involving the integration of React.js with Java Spring Boot, mastering RESTful API consumption, efficient state management, and performance optimization to create a user-centric, efficient software solution.</strong>:<br>
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="50" height="50"/>
+      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" title="Spring" width="50" height="50"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" title="React" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" title="MongoDB" width="50" height="50"/>
+</p>
+
+
+<h4 align="left"><a href="https://github.com/TheEMG/LibroVaultFinal">Libro Vault</a></h4>
+<p align="left">
+  <strong>Description</strong>: The Personal Library Management App is a convenient platform for managing and categorizing large book collections across multiple libraries, with features for adding, deleting, and updating book details.<br>
+  <strong>Technologies Used</strong>:<br>
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="50" height="50"/>
+      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" title="Spring" width="50" height="50"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" title="React" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" title="MongoDB" width="50" height="50"/>
+</p>
+
+
 
  
 
 <h3 align="center"><strong>Python Projects</strong></h3>
 <h4 align="left">In progress...</a></h4>
+
+<h3 align="center"><strong>Other Projects</strong></h3>
+<h4 align="left"><a href="https://github.com/TheEMG/Portfolio-Version1">Portfolio Version1 </a></h4>
+<p align="left">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" width="50" height="50"/>
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="50" height="50"/>
+</p>
 
 
