@@ -130,11 +130,17 @@
 <h4 align="left">In progress...</a></h4>
 
 <h3 align="center"><strong>Other Projects</strong></h3>
+
 <h4 align="left"><a href="https://github.com/TheEMG/Portfolio-Version1">Portfolio Version1 </a></h4>
 <p align="left">
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" width="50" height="50"/>
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="50" height="50"/>
+</p>
+
+<h4 align="left"><a href="https://github.com/TheEMG/Portfolio-Version1">Interpret</a></h4>
+<p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="50" height="50"/>
 </p>
 
 
