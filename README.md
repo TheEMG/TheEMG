@@ -124,13 +124,22 @@
 
 
 
- 
+
+  <!-- Python Projects-->
 
 <h3 align="center"><strong>Python Projects</strong></h3>
-<h4 align="left">In progress...</a></h4>
+<h4 align="left"><a href="https://github.com/TheEMG/Windows-File-Organizer">Windows File Organizer</a></h4>
+<p align="left">
+  <strong>Description</strong>:This Python script is designed to automatically organize files in your desired folder by categorizing them based on their file extension. <br>
+  <strong>Technologies Used</strong>:<br>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
+</p>
 
 <h3 align="center"><strong>Other Projects</strong></h3>
 
+
+<!--Other Projects-->
 <h4 align="left"><a href="https://github.com/TheEMG/Portfolio-Version1">Portfolio Version1 </a></h4>
 <p align="left">
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" width="50" height="50"/>
