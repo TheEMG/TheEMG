@@ -11,6 +11,7 @@
 - [Java Projects](#java-projects)
 - [Web Development Projects](#web-development-projects)
 - [Other Projects](#other-projects)
+- [Python Projects](python-projects)
 
 
 
@@ -57,6 +58,8 @@
 
  ## Projects 
 
+
+<!--JAVA PROJECTS-->
 <h3 align="center"><strong>Java Projects</strong></h3>
 
 
