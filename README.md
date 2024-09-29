@@ -171,5 +171,13 @@
  <img src="https://img.icons8.com/color/48/000000/google-sheets.png" alt="Google Sheets Logo" title="Google Sheets" width="50" height="50"/>
 </p>
 
+<h4 align="left"><a href="https://github.com/TheEMG/UnixInfoFinder"> Unix Info Finder </a></h4>
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/bash.png" alt="Bash Logo" title="Bash" width="50" height="50"/>
+</p>
+
+
+
+
 
 
