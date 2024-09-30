@@ -139,7 +139,18 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
 </p>
 
+<h4 align="left"><a href="https://github.com/TheEMG/Event-Log-Alerts">Event Log Alerts </a></h4>
+<p align="left">
+  <strong>Description</strong>:A Python program that monitors Windows Event Logs and sends email alerts for critical or error events. <br>
+  <strong>Technologies Used</strong>:<br>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
+</p>
+
+
+
 <h3 align="center"><strong>Other Projects</strong></h3>
+
 
 
 <!--Other Projects-->
